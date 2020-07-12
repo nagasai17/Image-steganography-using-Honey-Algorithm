@@ -1,3 +1,3 @@
-# Image_Steganography
+#  Honey Based Image_Steganography
 
-Implementing Image Steganography using Python.
+Implementing Honey Encryption based Image Steganography using Python.
